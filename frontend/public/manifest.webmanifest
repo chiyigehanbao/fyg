@@ -1,0 +1,19 @@
+{
+  "name": "AI 共创官",
+  "short_name": "AI 共创官",
+  "description": "从真实业务痛点出发，完成 AI 机会诊断与专属落地方案共创。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f766e",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
