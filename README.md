@@ -6,6 +6,15 @@ AI 共创官是一套中文 AI 诊断与共创应用。用户描述实际工作�
 
 项目采用 React + TypeScript 前端与 FastAPI 后端，默认调用本机 Ollama。诊断案例、回答和报告版本保存到数据库，报告可在线阅读，也可导出为 Word 或 PDF。
 
+## 界面预览
+
+<p>
+  <img src="docs/images/overview.png" width="900" alt="项目界面">
+  <img src="docs/images/detail.png" width="900" alt="功能界面">
+</p>
+
+本地前端截图，展示首页与诊断入口；模型未连接，未执行报告生成。
+
 ## 产品流程
 
 1. **建立诊断**：描述业务背景、现有流程与主要问题。
